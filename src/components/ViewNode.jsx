@@ -8,9 +8,9 @@ function Viewnode() {
   const [currency, serCurrency] = useState("usd%2Cinr");
   const [hours_24, serHours_24] = useState(true);
   const [imageurl, setImageurl] = useState("");
-  const [rank, setrank] = useState("0");
+  const [rank, setRank] = useState("0");
   const [name, setName] = useState("Bitcoin");
-  const [symbol, setsymbol] = useState("BTC");
+  const [symbol, setSymbol] = useState("BTC");
   const [usd, setUsd] = useState("100000");
   const [inr, setInr] = useState("100000");
   const [change, setChange] = useState("1.222");
