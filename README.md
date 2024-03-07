@@ -1,6 +1,5 @@
 # Koinx Frontend
 
-This is the complete frontend of Koinx.
+This is the complete frontend of Koinx with complete responsiveness.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can check the live version [here](https://koinx-frontend-virid.vercel.app/)
